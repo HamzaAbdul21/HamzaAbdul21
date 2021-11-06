@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Hamza
+- 👀 I’m interested in coding and programming
+- 🌱 I’m currently learning Pythonn and SQL and would like to be software engineer in the future.
+- 💞️ I’m looking to collaborate on applicationn development in the future
+- 📫 You can reach me via my email (sabor.hamza@gmail.com)
